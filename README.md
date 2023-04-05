@@ -1,7 +1,7 @@
 I'm currently learning typescript and python.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightail191)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightail)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightail191)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hightail191/hightail191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
